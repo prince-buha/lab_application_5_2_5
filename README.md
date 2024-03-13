@@ -1,16 +1,1 @@
-# lab_application_5_2_5
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src"https://github.com/prince-buha/lab_application_5_2_5/assets/150029430/79c344b9-c3f2-477b-8ee6-cdc36d81980d" width="250">
